@@ -1,4 +1,4 @@
-# Image-Segmentation
+# Image-Segmentation dengan U-Net
 Pada projek kali ini kami membuat image segmentation menggunakan model U-net. dengan menggunakan data sets city Scapes dengan kriteria sebagai berikut :
 1. Optimizer Adam
 2. batch size 4
